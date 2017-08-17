@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * 
-*.rb linguist-language=C++
+* linguist-vendored
+*.h linguist-vendored=false
+*.h linguist-language=C++
