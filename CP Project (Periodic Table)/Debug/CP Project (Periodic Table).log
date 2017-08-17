@@ -1,0 +1,24 @@
+﻿Build started 12/15/2013 2:54:20 AM.
+     1>Project "C:\Users\Muhammad Hannan\documents\visual studio 2012\Projects\CP Project (Periodic Table)\CP Project (Periodic Table)\CP Project (Periodic Table).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "periodic table.cpp"
+         periodic table.cpp
+     1>c:\users\muhammad hannan\documents\visual studio 2012\projects\cp project (periodic table)\cp project (periodic table)\periodic table.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\muhammad hannan\documents\visual studio 2012\projects\cp project (periodic table)\cp project (periodic table)\source_code.h(80): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\muhammad hannan\documents\visual studio 2012\projects\cp project (periodic table)\cp project (periodic table)\source_code.h(122): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\muhammad hannan\documents\visual studio 2012\projects\cp project (periodic table)\cp project (periodic table)\source_code.h(152): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\muhammad hannan\documents\visual studio 2012\projects\cp project (periodic table)\cp project (periodic table)\source_code.h(1522): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\muhammad hannan\documents\visual studio 2012\projects\cp project (periodic table)\cp project (periodic table)\source_code.h(1549): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammad Hannan\documents\visual studio 2012\Projects\CP Project (Periodic Table)\Debug\CP Project (Periodic Table).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Muhammad Hannan\documents\visual studio 2012\Projects\CP Project (Periodic Table)\Debug\CP Project (Periodic Table).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammad Hannan\documents\visual studio 2012\Projects\CP Project (Periodic Table)\Debug\CP Project (Periodic Table).lib" /MACHINE:X86 "Debug\periodic table.obj"
+         CP Project (Periodic Table).vcxproj -> C:\Users\Muhammad Hannan\documents\visual studio 2012\Projects\CP Project (Periodic Table)\Debug\CP Project (Periodic Table).exe
+     1>Done Building Project "C:\Users\Muhammad Hannan\documents\visual studio 2012\Projects\CP Project (Periodic Table)\CP Project (Periodic Table)\CP Project (Periodic Table).vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.40
